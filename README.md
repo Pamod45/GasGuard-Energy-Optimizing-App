@@ -10,8 +10,7 @@ Developed as part of the **Higher National Diploma in Software Engineering (HNDE
 
 - [Introduction](#introduction-)
 - [Features](#features-)
-
-- [Technology Stack](#technology-stack)
+- [Technology Stack](https://github.com/NisalWick2002/GasGuard-Energy-Optimizing-App?tab=readme-ov-file#technology-stack-)
 
 - [Testing Strategies](#testing-strategies-)
 - [Challenges and Solutions](#challenges-and-solutions-)
