@@ -11,7 +11,7 @@ Developed as part of the **Higher National Diploma in Software Engineering (HNDE
 - [Introduction](#introduction-)
 - [Features](#features-)
 
-- [Challenges and Solutions](#challenges-and-solutions-)
+- [Technology Stack](#technology-stack)
 
 - [Testing Strategies](#testing-strategies-)
 - [Challenges and Solutions](#challenges-and-solutions-)
