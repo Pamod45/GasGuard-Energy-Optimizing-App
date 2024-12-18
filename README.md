@@ -10,9 +10,9 @@ Developed as part of the **Higher National Diploma in Software Engineering (HNDE
 
 - [Introduction](#introduction-)
 - [Features](#features-)
-- [Technology Stack](#technology-stack-)
-- [System Design](#system-design-)
-- [Setup and Installation](#setup-and-installation-)
+
+- [Challenges and Solutions](#challenges-and-solutions-)
+
 - [Testing Strategies](#testing-strategies-)
 - [Challenges and Solutions](#challenges-and-solutions-)
 - [Future Directions](#future-directions-)
